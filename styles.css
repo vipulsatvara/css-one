@@ -1,0 +1,13 @@
+hr {
+  width: 20%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(114, 66, 209);
+  border-width: 7px;
+}
+p {
+  text-align: center;
+}
+body {
+  background-color: lightgoldenrodyellow;
+}
